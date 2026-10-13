@@ -1,0 +1,17 @@
+{
+  "name": "Goldie",
+  "short_name": "Goldie",
+  "lang": "de",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#deedf5",
+  "theme_color": "#deedf5",
+  "icons": [
+    {
+      "src": "/assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
